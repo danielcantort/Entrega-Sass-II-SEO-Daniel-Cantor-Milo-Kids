@@ -1,0 +1,10 @@
+﻿En el archivo index.html sumé el SEO con las siguientes características:
+
+
+* Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “En MiloKids nos inspiramos con la alegría de los niños, cada prenda es elaborada con un estilo único que plasme las cosas que más amán.”
+
+
+* Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "ropa, niños, camisetas, joggers, infantil"
+
+
+* Título: Utilice el tag <title>Milo Kids | Ropa para niños</title>
